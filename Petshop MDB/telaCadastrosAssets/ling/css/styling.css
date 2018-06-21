@@ -1,0 +1,49 @@
+#divImagem
+{
+	display: inline-block;
+	background-color: yellow;
+	padding: 13px 10px 10px 10px;
+	border-radius: 50px;
+}
+
+td
+{
+	text-align: center;
+}
+
+table
+{
+	margin: 20px 0px 0px 0px;
+	width: 1335px;
+	height: 420px;
+	font-size: 23px;
+}
+
+#tituloPagina
+{
+	display: inline-block;
+	font-size: 75px;
+	color: white;
+	background-color: green;
+	border-radius: 30px;
+	width: 1210px;
+	margin: 0px 0px 10px 10px;
+	padding: 0px 10px 0px 10px;
+	text-align: center;
+}
+
+#voltar
+{
+	background-color: red;
+	color: white;
+	font-size: 30px;
+	margin: 10px 0px 0px 540px;
+	text-align: center;
+	display: inline-block;
+	padding: 5px;
+	border-radius: 10px;
+}
+
+
+
+

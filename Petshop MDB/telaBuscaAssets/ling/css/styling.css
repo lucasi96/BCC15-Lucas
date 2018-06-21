@@ -1,0 +1,59 @@
+#divImagem
+{
+	display: inline-block;
+	background-color: yellow;
+	padding: 13px 10px 10px 10px;
+	border-radius: 50px;
+}
+
+#tituloPagina
+{
+	display: inline-block;
+	font-size: 75px;
+	color: white;
+	background-color: red;
+	border-radius: 30px;
+	margin: 0px 0px 10px 10px;
+	padding: 0px 50px 0px 0px;
+	width: 1180px;
+	text-align: center;
+}
+
+table
+{
+	width: 845px;
+	height: 300px;
+	margin: 30px 0px 0px 10px;
+}
+
+.campos
+{
+	margin: 0px 0px 0px 0px;
+	border-radius: 15px;
+	text-align: center;
+}
+
+#limpar
+{
+	background-color: black;
+	color: red;
+	display: inline-block;
+	margin: 40px 0px 0px 10px;
+	font-size: 42px;	
+}
+
+#ache
+{
+	background-color: green;
+	color: white;
+	display: inline-block;
+	margin: 0px 0px 0px 415px;
+	font-size: 50px;	
+	padding: 10px;
+	border-radius: 5px;
+}
+
+
+
+
+

@@ -1,0 +1,71 @@
+#divImagem
+{
+	display: inline-block;
+	background-color: yellow;
+	padding: 13px 10px 10px 10px;
+	border-radius: 50px;
+}
+
+#tituloPagina
+{
+	display: inline-block;
+	font-size: 75px;
+	color: white;
+	background-color: blue;
+	border-radius: 30px;
+	margin: 0px 0px 10px 10px;
+	padding: 0px 50px 0px 0px;
+	width: 1180px;
+	text-align: center;
+}
+
+table
+{
+	width: 845px;
+	height: 340px;
+	margin: 30px 0px 0px 10px;
+}
+
+.campos
+{
+	text-align: center;
+}
+
+#obs
+{
+	text-align: center;
+	height: 100px;
+}
+
+#apagar
+{
+border: solid red 3px;
+border-radius: 15px;
+padding: 0px 0px 20px 10px;
+display: inline-block;
+color: red;
+background-color: orange;
+text-align: center;
+padding: 5px;
+margin: 60px 0px 0px 0px;
+}
+
+#salvar
+{
+	width: 150px;
+	height: 60px;
+border: solid blue 3px;
+color: blue;
+background-color: gray;
+border-radius: 25px;
+display: inline-block;
+text-align: center;
+padding: 25px 0px 0px 0px;
+margin: 0px 0px 0px 450px;
+font-size: 30px;
+}
+
+
+
+
+

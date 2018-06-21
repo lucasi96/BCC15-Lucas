@@ -1,0 +1,60 @@
+#nome
+{
+	font-size: 100px;
+	font-family: sans-serif;
+	display: block;
+	margin: -70px 0px 0px 0px;
+	background-color: yellow;
+	color: gray;
+	text-align: center;
+}
+
+#cadastros
+{
+	font-size: 50px;
+	color: white;
+	background-color: green;
+	border: black solid 1px;
+	border-radius: 200px;
+	width: 330px;
+	height: 260px;
+	padding: 100px 0px 0px 30px;
+	margin: 0px 0px 0px 20px;
+	display: inline-block;
+}
+
+#buscar
+{
+	font-size: 50px;
+	color: white;
+	background-color: red;
+	border: black solid 1px;
+	border-radius: 200px;
+	width: 280px;
+	height: 260px;
+	padding: 100px 0px 0px 80px;
+	margin: 0px 0px 0px 110px;
+	display: inline-block;
+}
+
+#adicionar
+{
+	font-size: 50px;
+	color: white;
+	background-color: blue;
+	border: black solid 1px;
+	border-radius: 200px;
+	width: 330px;
+	height: 260px;
+	padding: 100px 0px 0px 30px;
+	margin: 0px 0px 0px 100px;
+	display: inline-block;
+}
+
+
+
+
+
+
+
+
